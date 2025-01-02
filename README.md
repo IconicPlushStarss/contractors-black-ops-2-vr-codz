@@ -2,7 +2,7 @@
 ---
 ![aca1de509b1d10131783122f42ee4c75 (1)](https://github.com/user-attachments/assets/6da605af-cdd1-4c91-92cd-9adbb30d5710)
 
-# Call of Duty: Black Ops 2 VR Code - Contractors VR Mod
+# Call of Duty: Black Ops 2 VR Port - Contractors VR Mod
 
 ### Hello there! It is I, IconicPlushStars. These are my modkit files for my Black Ops 2 CoDz VR Port.
 
