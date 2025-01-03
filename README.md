@@ -27,7 +27,7 @@
 - **SmokeyGosling**: Helped add CoDz support to the Black Ops 2 weapons.  
 - **Sammy**: Ported most of the Black Ops 2 weapons to the Contractors modkit and shared them with me.  
 - **ItsNotTristan**: Provided lava burning sound effects and zombie models.  
-- **Vegal**: Created player models.  
+- **Vegal**: Ported BO2 GreenRun Survival player models.  
 
 ---
 
