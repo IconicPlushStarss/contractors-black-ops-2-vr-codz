@@ -13,6 +13,10 @@
 
 ---
 
+## Reminders
+
+### I don't plan on making any major updates for this modkit and such. I will be adding bug fixes and features here and there, but I have no plans for any big changes or additions anytime soon.
+
 ## How to Use
 1. Go to the **Releases** tab and download the `.rar` file.  
 2. Extract the file and drag it into your Contractors Modkit content folder via File Explorer.  
