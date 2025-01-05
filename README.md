@@ -22,8 +22,8 @@
 ## How to Use
 1. Go to the **Releases** tab and download the `.rar` file.  
 2. Extract the file and drag it into your Contractors Modkit content folder via File Explorer.  
-3. Refer to the official documentation created by ***Anony*** in the official CoDz Discord (not the BO2 CoDz one), which can be found at: [https://discord.gg/Hq8KgvHW7f](https://discord.gg/Hq8KgvHW7f).  
-
+3. Refer to the official documentation created by ***Anony*** in the official CoDz Discord (not the BO2 CoDz Discord), which can be found at: [https://discord.gg/Hq8KgvHW7f](https://discord.gg/Hq8KgvHW7f).  
+4. I also have my own doumentation within the same discord for BO2 modkit features.
 ---
 
 ## Credits
