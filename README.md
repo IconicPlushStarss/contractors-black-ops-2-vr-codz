@@ -65,5 +65,5 @@ Here are some of the extra features I added to this modkit:
 - Resolved getting more Monkey Bombs when the next round starts.  
 - Fixed issues caused by Contractors updates.  
 - Fixed Stamin-Up functionality.  
-
+- Fixed Monkey Bombs having broken left hand support.
 ---
