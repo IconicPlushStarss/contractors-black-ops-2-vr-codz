@@ -54,7 +54,9 @@ Here are some of the extra features I added to this modkit:
 - Galva Knuckles  
 - Black Ops 2 wall buys  
 - Kill count increases when you kill zombies  
-- Down count increases when you get downed  
+- Down count increases when you get downed
+- Character name fading in when you spawn in on the wrist UI
+- Round progression animations
 
 ---
 
