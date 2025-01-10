@@ -28,10 +28,11 @@
 
 ## Credits
 - **Anony**: Creator of the CoDz Black Ops 1 modkit (also known as the official CoDz modkit).  
-- **IconicPlushStars**: ME! I am the main coder for this project.  
+- **IconicPlushStars**: ME! I am the main coder for this project.
+- **Sammy**: Ported most of the Black Ops 2 weapons to the Contractors modkit and shared them with me.
+- **Fran**: Provided an fucking awesome achievement system. (Shout out to him, play his Mario 64 map whenever thats out)
 - **Ellis**: Created particles, helped make the Black Ops 2 weapons have CoDz support, and found a source with many BO2 textures, sounds, and models.  
 - **SmokeyGosling**: Helped add CoDz support to the Black Ops 2 weapons.  
-- **Sammy**: Ported most of the Black Ops 2 weapons to the Contractors modkit and shared them with me.  
 - **ItsNotTristan**: Provided lava burning sound effects and zombie models.  
 - **Vegal**: Ported BO2 GreenRun Survival player models.  
 
@@ -57,7 +58,13 @@ Here are some of the extra features I added to this modkit:
 - Down count increases when you get downed
 - Character name fading in when you spawn in on the wrist UI
 - Round progression animations
-
+- Chalk Rounds
+- Points Animation
+- Round HUD
+- Reload Reminders
+- Slider for tabs in CoDz Settings
+- Achievement system (shout out to fran for makin it)
+ 
 ---
 
 ## Bug Fixes
@@ -66,4 +73,6 @@ Here are some of the extra features I added to this modkit:
 - Fixed issues caused by Contractors updates.  
 - Fixed Stamin-Up functionality.  
 - Fixed Monkey Bombs having broken left hand support.
+- Fixed teleporter reset system
+  
 ---
