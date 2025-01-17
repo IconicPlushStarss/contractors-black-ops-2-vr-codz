@@ -64,6 +64,7 @@ Here are some of the extra features I added to this modkit:
 - Reload Reminders
 - Slider for tabs in CoDz Settings
 - Achievement system (shout out to fran for makin it)
+- Map Text Starts
  
 ---
 
