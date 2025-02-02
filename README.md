@@ -64,7 +64,12 @@ Here are some of the extra features I added to this modkit:
 - Reload Reminders
 - Slider for tabs in CoDz Settings
 - Achievement system (shout out to fran for makin it)
-- Map Text Starts
+- Map text starts
+- Ranks
+- Stats
+- Hand only models
+- Zombies from nuketown
+- Nuketown perk system
  
 ---
 
@@ -75,5 +80,7 @@ Here are some of the extra features I added to this modkit:
 - Fixed Stamin-Up functionality.  
 - Fixed Monkey Bombs having broken left hand support.
 - Fixed teleporter reset system
+- Fixed culling problems
+- Fixed an issue where you would buy a gadget (ex: claymores, semtex grenades) wallbuy and it would not transfer to your holster
   
 ---
