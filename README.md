@@ -30,7 +30,7 @@
 - **Anony**: Creator of the CoDz Black Ops 1 modkit (also known as the official CoDz modkit).  
 - **IconicPlushStars**: ME! I am the main coder for this project.
 - **Sammy**: Ported most of the Black Ops 2 weapons to the Contractors modkit and shared them with me.
-- **Fran**: Provided an fucking awesome achievement system. (Shout out to him, play his Mario 64 map whenever thats out)
+- **Fran**: Provided an fucking awesome achievement system, and made the tombstone system. (Shout out to him, play his Mario 64 map)
 - **Ellis**: Created particles, helped make the Black Ops 2 weapons have CoDz support, and found a source with many BO2 textures, sounds, and models.  
 - **SmokeyGosling**: Helped add CoDz support to the Black Ops 2 weapons.  
 - **ItsNotTristan**: Provided lava burning sound effects and zombie models.  
@@ -70,6 +70,8 @@ Here are some of the extra features I added to this modkit:
 - Hand only models
 - Zombies from nuketown
 - Nuketown perk system
+- Tombstone
+- Grenades hitting zombies
  
 ---
 
