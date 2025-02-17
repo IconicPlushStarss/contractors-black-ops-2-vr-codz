@@ -4,7 +4,7 @@
 
 # Call of Duty: Black Ops 2 VR Port - Contractors VR Mod
 
-### Hello there! It is I, IconicPlushStars. These are my modkit files for my Black Ops 2 CoDz VR Port.
+### Hello there! It is I, IconicPlushStars. These are my modkit files for my Black Ops 2 CoDz VR Port. The main purpose of this Modkit is to have elements of the greenrun survival maps and the nuketown elements as well.
 
 ---
 
